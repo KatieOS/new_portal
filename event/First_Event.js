@@ -7,3 +7,4 @@
 // ====================================================================================================
 var player = Spark.getPlayer();
 player.credit1(20, "cause I want to");
+var new_data = "This was added via github";
